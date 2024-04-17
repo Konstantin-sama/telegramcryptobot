@@ -1,5 +1,5 @@
 
-TOKEN = '6282812321:AAGv14ksCh8AVLzBaQ042aC7hAU3NoBcwfo'
+TOKEN = '???'
 
 keys = {
     'биткоин': 'BTS',
